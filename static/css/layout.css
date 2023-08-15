@@ -118,6 +118,11 @@ article > header address + time::before {
     margin-right: 6px;
 }
 
+article > p {
+    font-family: Calibri;
+    font-weight: normal;
+}
+
 em {
     font-style: normal;
     font-weight: bold;
